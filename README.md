@@ -173,7 +173,7 @@ Retrieval-augmented multi-agent orchestration.
 
 ### 🤝 &nbsp;Let's build something
 
-**Open to AI/ML roles · freelance · AI agents & automation · consulting (FR · AR · EN)**
+**Open to full-time AI/ML roles** · also freelance & consulting · remote worldwide (FR · AR · EN)
 
 <a href="https://ossamaelhakki.com/contact"><img src="https://img.shields.io/badge/💬%20Hire%20me-00d4aa?style=for-the-badge"/></a>
 <a href="https://ossamaelhakki.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-6c63ff?style=for-the-badge"/></a>
