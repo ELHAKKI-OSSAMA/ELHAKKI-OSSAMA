@@ -156,10 +156,6 @@ Retrieval-augmented multi-agent orchestration.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ELHAKKI-OSSAMA&theme=flat&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
-
-<p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ELHAKKI-OSSAMA&bg_color=ffffff&color=6c63ff&line=8b5cf6&point=00a88a&title_color=6c63ff&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 </p>
 
