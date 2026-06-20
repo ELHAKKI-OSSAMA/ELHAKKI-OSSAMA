@@ -29,7 +29,7 @@ class OssamaElhakki:
     def __init__(self):
         self.role      = "AI Engineer & ML Systems Builder"
         self.location  = "Casablanca, Morocco 🇲🇦"
-        self.education  = "MSc — Distributed Systems & AI, ENSET Mohammedia"
+        self.education = "MSc — Distributed Systems & AI, ENSET Mohammedia"
         self.languages = ["Arabic (native)", "French (fluent)", "English (pro)"]
         self.focus     = ["Computer Vision", "NLP", "Generative AI", "MLOps", "AI Agents"]
         self.projects  = "42+ production-grade, fully documented"
@@ -93,6 +93,7 @@ class OssamaElhakki:
 
 **🧱 Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -117,7 +118,7 @@ EfficientNet U-Net for medical image segmentation.
 > **Dice 0.796**
 
 ### 🅿️ [YOLO Smart Parking](https://ossamaelhakki.com/en/projects/yolo-parking)
-Real-time vehicle/space detection with YOLOv8.
+Real-time vehicle / space detection with YOLOv8.
 > **Live object detection**
 
 </td>
@@ -146,21 +147,21 @@ Retrieval-augmented multi-agent orchestration.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ELHAKKI-OSSAMA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELHAKKI-OSSAMA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ELHAKKI-OSSAMA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6c63ff&icon_color=8b5cf6&text_color=24292f&bg_color=ffffff" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELHAKKI-OSSAMA&layout=compact&langs_count=8&hide_border=true&title_color=6c63ff&text_color=24292f&bg_color=ffffff" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELHAKKI-OSSAMA&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ELHAKKI-OSSAMA&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=6c63ff&fire=8b5cf6&currStreakNum=24292f&currStreakLabel=6c63ff&sideNums=24292f&sideLabels=24292f&dates=767676&excludeDaysLabel=767676" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ELHAKKI-OSSAMA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ELHAKKI-OSSAMA&theme=flat&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
-<picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELHAKKI-OSSAMA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6c63ff&line=00d4aa&point=ffffff&area=true" alt="activity graph"/>
-</picture>
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ELHAKKI-OSSAMA&bg_color=ffffff&color=6c63ff&line=8b5cf6&point=00a88a&title_color=6c63ff&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+</p>
 
 ---
 
@@ -170,8 +171,6 @@ Retrieval-augmented multi-agent orchestration.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELHAKKI-OSSAMA/ELHAKKI-OSSAMA/output/github-snake-dark.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/ELHAKKI-OSSAMA/ELHAKKI-OSSAMA/output/github-snake.svg" />
 </picture>
-
-> _Renders once you add the Snake GitHub Action (see setup note at the bottom)._
 
 ---
 
